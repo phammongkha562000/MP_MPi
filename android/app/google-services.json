@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591060307372",
+    "project_id": "mpinoti-b0684",
+    "storage_bucket": "mpinoti-b0684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591060307372:android:7a35567a90834496bd7e09",
+        "android_client_info": {
+          "package_name": "com.mpl.mpi_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591060307372-vjcd7tfhb544qt9tid09k7t0pte21o77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lKGL-tDMXuq5gS28rb9oI1yGiZkqkoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591060307372-vjcd7tfhb544qt9tid09k7t0pte21o77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
